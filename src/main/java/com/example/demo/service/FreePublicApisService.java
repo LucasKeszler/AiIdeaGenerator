@@ -22,12 +22,14 @@ public class FreePublicApisService {
 
     public List<FreeApiDto> getFreeApis() {
         try {
-            FreeApiDto[] apis = restClient.get()
-                    .uri(freeApisUrl)
-                    .retrieve()
-                    .body(FreeApiDto[].class);
+            FreeApiDto[] apis = restClient.get().uri(freeApisUrl).retrieve().body(FreeApiDto[].class);
 
-            return List.of(apis);
+            if (apis != null && apis.length > 0) {
+                return List.of(apis);
+            } else {
+                logger.warn("freepublicapis.com returnerede ingen API´er");
+                return List.of();
+            }
         } catch (RestClientException e) {
             logger.error("Kunne ikke hente api´er", e);
             return List.of();
