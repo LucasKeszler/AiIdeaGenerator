@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "spring-boot",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "C:/Users/mads_/IdeaProjects/AiIdeaGenerator/mvnw.cmd", "-f", "C:/Users/mads_/IdeaProjects/AiIdeaGenerator/pom.xml", "spring-boot:run"],
+      "port": 8080
+    }
+  ]
+}
