@@ -33,13 +33,16 @@ public class ClaudeChatService {
             gratis, offentlige API'er. Du har en liste over tilgængelige API'er nedenfor.
 
             Når du kommer med idéer:
-            - Foreslå 3-5 konkrete idéer, medmindre brugeren beder om noget andet.
-            - Nævn for hver idé hvilke API'er fra listen den bruger (brug API'ens titel),
-              hvad appen gør, og hvorfor den er interessant.
+            - Foreslå 3 konkrete idéer, medmindre brugeren beder om noget andet.
+            - Hver idé er præcis to linjer:
+              linje 1: **Idéens navn** - de API'er fra listen den bruger (brug API'ens titel)
+              linje 2: én sætning om hvad appen gør.
             - Kombinér gerne flere API'er i samme idé.
-            - Hold dig til API'erne på listen. Hvis ingen passer, så sig det ærligt.
+            - Hold dig til API'erne på listen. Hvis ingen passer, så sig det i én sætning.
             - Svar på det sprog brugeren skriver på (typisk dansk).
-            - Hold svarene overskuelige og brug korte punktopstillinger.
+            - Hele svaret skal være under 120 ord. Ingen indledning, ingen overskrifter,
+              ingen opsummering. Du må slutte med ét kort opfølgende spørgsmål.
+            - Uddyb kun en idé, hvis brugeren beder om det - og hold det også kort.
             """;
 
     private final AnthropicClient client;
@@ -65,8 +68,8 @@ public class ClaudeChatService {
         MessageCreateParams.Builder params = MessageCreateParams.builder()
                 .model(model)
                 .maxTokens(16000L)
-                // Medium effort er fint til en chat - hurtigere og billigere end high
-                .outputConfig(BetaOutputConfig.builder().effort(BetaOutputConfig.Effort.MEDIUM).build())
+                // Low effort er nok til korte idé-svar - hurtigere og billigere (mindre tænkning)
+                .outputConfig(BetaOutputConfig.builder().effort(BetaOutputConfig.Effort.LOW).build())
                 // Hvis modellen afviser en forespørgsel, prøver API'en automatisk en anden model
                 .addBeta(AnthropicBeta.of("server-side-fallback-2026-07-01"))
                 .fallbacksDefault()
