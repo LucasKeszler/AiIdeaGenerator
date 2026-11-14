@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Idé-generator</title>
+    <style>
+        :root {
+            --bg: #f6f5f2;
+            --panel: #ffffff;
+            --text: #1d1b18;
+            --muted: #6f6a62;
+            --border: #e4e0d8;
+            --accent: #c8553d;
+            --accent-soft: #fbeae5;
+            --ok: #2f7d5b;
+            --error: #b42318;
+            --radius: 12px;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #171614;
+                --panel: #22201d;
+                --text: #f2efe9;
+                --muted: #a39d93;
+                --border: #3a3631;
+                --accent: #e2735a;
+                --accent-soft: #3a2621;
+                --ok: #5cbf8f;
+                --error: #f97066;
+            }
+        }
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.5;
+        }
+        .wrap { max-width: 1040px; margin: 0 auto; padding: 32px 20px 64px; }
+        header h1 { margin: 0 0 4px; font-size: 1.9rem; letter-spacing: -0.02em; }
+        header p { margin: 0; color: var(--muted); }
+
+        .panel {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px;
+            margin-top: 24px;
+        }
+        .panel h2 { margin: 0 0 4px; font-size: 1.1rem; }
+        .hint { margin: 0 0 16px; color: var(--muted); font-size: 0.92rem; }
+
+        .genres { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 16px; }
+        .genre h3 { margin: 0 0 8px; font-size: 0.95rem; }
+        .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+        .chip {
+            border: 1px solid var(--border);
+            background: transparent;
+            color: var(--text);
+            border-radius: 999px;
+            padding: 5px 12px;
+            font: inherit;
+            font-size: 0.88rem;
+            cursor: pointer;
+        }
+        .chip:hover { border-color: var(--accent); }
+        .chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+        .selected-line { margin-top: 16px; font-size: 0.92rem; color: var(--muted); }
+        .selected-line strong { color: var(--text); }
+
+        textarea {
+            width: 100%;
+            min-height: 84px;
+            resize: vertical;
+            padding: 10px 12px;
+            border-radius: 10px;
+            border: 1px solid var(--border);
+            background: var(--bg);
+            color: var(--text);
+            font: inherit;
+        }
+        .row { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-top: 12px; }
+        .counter { margin-left: auto; color: var(--muted); font-size: 0.85rem; }
+        label.check { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; }
+
+        .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
+        button.primary, button.secondary {
+            font: inherit;
+            border-radius: 10px;
+            padding: 10px 18px;
+            cursor: pointer;
+            border: 1px solid var(--accent);
+        }
+        button.primary { background: var(--accent); color: #fff; font-weight: 600; }
+        button.secondary { background: transparent; color: var(--accent); }
+        button:disabled { opacity: 0.5; cursor: default; }
+
+        .status { margin-top: 24px; color: var(--muted); }
+        .status.error { color: var(--error); }
+        .spinner {
+            display: inline-block; width: 14px; height: 14px; margin-right: 8px; vertical-align: -2px;
+            border: 2px solid var(--border); border-top-color: var(--accent); border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        .ideas { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 16px; margin-top: 16px; }
+        .idea {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .idea .num { color: var(--accent); font-weight: 700; font-size: 0.85rem; }
+        .idea h3 { margin: 0; font-size: 1.15rem; }
+        .idea p { margin: 0; }
+        .api-badge {
+            align-self: flex-start;
+            background: var(--accent-soft);
+            color: var(--text);
+            border-radius: 8px;
+            padding: 4px 10px;
+            font-size: 0.88rem;
+            font-weight: 600;
+        }
+        .api-badge a { color: inherit; }
+        .idea h4 { margin: 4px 0 0; font-size: 0.85rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+        .idea ul { margin: 0; padding-left: 20px; }
+        .alts { color: var(--muted); font-size: 0.9rem; }
+
+        details.used { margin-top: 24px; }
+        details.used summary { cursor: pointer; color: var(--muted); }
+        details.used ul { margin: 8px 0 0; padding-left: 20px; font-size: 0.92rem; }
+        footer { margin-top: 40px; color: var(--muted); font-size: 0.85rem; text-align: center; }
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <header>
+        <h1>💡 AI Idé-generator</h1>
+        <p>Vælg hvad du er interesseret i, og få 3 projektidéer bygget på gratis, offentlige API'er.</p>
+    </header>
+
+    <section class="panel">
+        <h2>1. Vælg undergenrer</h2>
+        <p class="hint">Vælg 1 til 5 undergenrer. Claude får de bedste API'er fra hver.</p>
+        <div id="genres" class="genres"><p class="hint">Henter genrer...</p></div>
+        <div class="selected-line">Valgt: <strong id="selected">ingen endnu</strong></div>
+    </section>
+
+    <section class="panel">
+        <h2>2. Hvad kunne du tænke dig at lave? <span class="hint">(valgfrit)</span></h2>
+        <p class="hint">Lad feltet stå tomt for at lade Claude finde på idéerne selv.</p>
+        <textarea id="idea" maxlength="500" placeholder="fx &quot;en app til min fodboldklub&quot; eller &quot;noget sjovt til Discord&quot;"></textarea>
+        <div class="row">
+            <label class="check"><input type="checkbox" id="nsfw"> Vis 18+ API'er</label>
+            <span class="counter"><span id="count">0</span>/500</span>
+        </div>
+        <div class="actions">
+            <button class="primary" id="go">Få 3 idéer</button>
+            <button class="secondary" id="surprise">🎲 Overrask mig</button>
+            <button class="secondary" id="reset">Nulstil</button>
+        </div>
+    </section>
+
+    <div id="status" class="status"></div>
+    <div id="ideas" class="ideas"></div>
+    <div id="used"></div>
+
+    <footer>API-data fra freepublicapis.com · idéer genereret af Claude</footer>
+</div>
+
+<script>
+    const MAX_SUBGENRES = 5;
+    const selected = new Set();
+    let allSubgenres = [];
+
+    const $ = id => document.getElementById(id);
+
+    // ---------- Genrer ----------
+    async function loadGenres() {
+        try {
+            const res = await fetch('/api/v1/genres');
+            if (!res.ok) throw new Error('Status ' + res.status);
+            const genres = await res.json();
+            renderGenres(genres);
+        } catch (e) {
+            $('genres').innerHTML = '';
+            const p = document.createElement('p');
+            p.className = 'status error';
+            p.textContent = 'Kunne ikke hente genrer fra GET /api/v1/genres (' + e.message + ').';
+            $('genres').appendChild(p);
+        }
+    }
+
+    function renderGenres(genres) {
+        const box = $('genres');
+        box.innerHTML = '';
+        allSubgenres = [];
+        Object.keys(genres).sort((a, b) => a.localeCompare(b, 'da')).forEach(genre => {
+            const div = document.createElement('div');
+            div.className = 'genre';
+            const h = document.createElement('h3');
+            h.textContent = genre;
+            div.appendChild(h);
+            const chips = document.createElement('div');
+            chips.className = 'chips';
+            [...genres[genre]].sort((a, b) => a.localeCompare(b, 'da')).forEach(sub => {
+                allSubgenres.push(sub);
+                const b = document.createElement('button');
+                b.type = 'button';
+                b.className = 'chip';
+                b.textContent = sub;
+                b.dataset.sub = sub;
+                b.addEventListener('click', () => toggle(sub));
+                chips.appendChild(b);
+            });
+            div.appendChild(chips);
+            box.appendChild(div);
+        });
+        refreshChips();
+    }
+
+    function toggle(sub) {
+        if (selected.has(sub)) {
+            selected.delete(sub);
+        } else if (selected.size >= MAX_SUBGENRES) {
+            setStatus('Du kan højst vælge ' + MAX_SUBGENRES + ' undergenrer.', true);
+            return;
+        } else {
+            selected.add(sub);
+        }
+        setStatus('');
+        refreshChips();
+    }
+
+    function refreshChips() {
+        document.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', selected.has(c.dataset.sub)));
+        $('selected').textContent = selected.size ? [...selected].join(', ') : 'ingen endnu';
+    }
+
+    // ---------- Status ----------
+    function setStatus(text, isError = false, loading = false) {
+        const s = $('status');
+        s.className = 'status' + (isError ? ' error' : '');
+        s.innerHTML = '';
+        if (loading) {
+            const sp = document.createElement('span');
+            sp.className = 'spinner';
+            s.appendChild(sp);
+        }
+        s.appendChild(document.createTextNode(text));
+    }
+
+    // ---------- Idéer ----------
+    async function getIdeas() {
+        if (selected.size === 0) {
+            setStatus('Vælg mindst én undergenre først.', true);
+            return;
+        }
+        const params = new URLSearchParams();
+        selected.forEach(s => params.append('subgenre', s));
+        const idea = $('idea').value.trim();
+        if (idea) params.append('ide', idea);
+        params.append('visNsfw', $('nsfw').checked);
+
+        setBusy(true);
+        $('ideas').innerHTML = '';
+        $('used').innerHTML = '';
+        setStatus('Claude tænker over dine idéer...', false, true);
+
+        try {
+            const res = await fetch('/api/v1/ideas?' + params.toString());
+            const text = await res.text();
+            if (!res.ok) {
+                throw new Error(readError(text) || ('Serveren svarede med status ' + res.status));
+            }
+            const data = parseJson(text);
+            const ideas = Array.isArray(data) ? data : (data.ideas || data.ideer || []);
+            const apis = Array.isArray(data) ? [] : (data.apis || []);
+            if (!ideas.length) throw new Error('Claude returnerede ingen idéer. Prøv igen.');
+            renderIdeas(ideas, apis);
+            setStatus('');
+        } catch (e) {
+            setStatus(e.message, true);
+        } finally {
+            setBusy(false);
+        }
+    }
+
+    // Tåler både rent JSON og JSON pakket ind i ```json ... ```
+    function parseJson(text) {
+        let t = text.trim();
+        if (t.startsWith('```')) {
+            t = t.replace(/^```[a-zA-Z]*\s*/, '').replace(/```\s*$/, '').trim();
+        }
+        try {
+            const parsed = JSON.parse(t);
+            return typeof parsed === 'string' ? parseJson(parsed) : parsed;
+        } catch (e) {
+            throw new Error('Svaret fra Claude kunne ikke læses som JSON. Prøv igen.');
+        }
+    }
+
+    function readError(text) {
+        try {
+            const j = JSON.parse(text);
+            return j.message || j.error || null;
+        } catch (e) {
+            return text && text.length < 300 ? text : null;
+        }
+    }
+
+    function renderIdeas(ideas, apis) {
+        const byTitle = new Map(apis.map(a => [a.title, a]));
+        const box = $('ideas');
+        ideas.forEach((idea, i) => {
+            const card = document.createElement('article');
+            card.className = 'idea';
+
+            card.appendChild(el('div', 'num', 'Idé ' + (i + 1)));
+            card.appendChild(el('h3', null, idea.titel || 'Uden titel'));
+            if (idea.beskrivelse) card.appendChild(el('p', null, idea.beskrivelse));
+
+            if (idea.hovedApi) {
+                const badge = document.createElement('div');
+                badge.className = 'api-badge';
+                const api = byTitle.get(idea.hovedApi);
+                const label = (api && api.emoji ? api.emoji + ' ' : '🔌 ') + idea.hovedApi;
+                if (api && api.documentation) {
+                    const a = document.createElement('a');
+                    a.href = api.documentation;
+                    a.target = '_blank';
+                    a.rel = 'noopener';
+                    a.textContent = label;
+                    badge.appendChild(a);
+                } else {
+                    badge.textContent = label;
+                }
+                card.appendChild(badge);
+            }
+
+            if (Array.isArray(idea.features) && idea.features.length) {
+                card.appendChild(el('h4', null, 'Features'));
+                const ul = document.createElement('ul');
+                idea.features.forEach(f => ul.appendChild(el('li', null, f)));
+                card.appendChild(ul);
+            }
+
+            if (Array.isArray(idea.alternativer) && idea.alternativer.length) {
+                card.appendChild(el('div', 'alts', 'Alternativer: ' + idea.alternativer.join(', ')));
+            }
+            box.appendChild(card);
+        });
+
+        if (apis.length) {
+            const d = document.createElement('details');
+            d.className = 'used';
+            d.appendChild(el('summary', null, 'Claude valgte blandt ' + apis.length + ' API\'er'));
+            const ul = document.createElement('ul');
+            apis.forEach(a => ul.appendChild(el('li', null,
+                (a.emoji ? a.emoji + ' ' : '') + a.title + ' (' + a.subgenre + (a.health != null ? ', health ' + a.health : '') + ')')));
+            d.appendChild(ul);
+            $('used').appendChild(d);
+        }
+    }
+
+    function el(tag, cls, text) {
+        const e = document.createElement(tag);
+        if (cls) e.className = cls;
+        if (text != null) e.textContent = text;
+        return e;
+    }
+
+    function setBusy(busy) {
+        ['go', 'surprise', 'reset'].forEach(id => $(id).disabled = busy);
+    }
+
+    // ---------- Knapper ----------
+    function surprise() {
+        if (!allSubgenres.length) return;
+        selected.clear();
+        const pool = [...allSubgenres];
+        for (let i = 0; i < 3 && pool.length; i++) {
+            const idx = Math.floor(Math.random() * pool.length);
+            selected.add(pool.splice(idx, 1)[0]);
+        }
+        $('idea').value = '';
+        updateCount();
+        refreshChips();
+        getIdeas();
+    }
+
+    function reset() {
+        selected.clear();
+        $('idea').value = '';
+        $('nsfw').checked = false;
+        updateCount();
+        refreshChips();
+        $('ideas').innerHTML = '';
+        $('used').innerHTML = '';
+        setStatus('');
+    }
+
+    function updateCount() { $('count').textContent = $('idea').value.length; }
+
+    $('go').addEventListener('click', getIdeas);
+    $('surprise').addEventListener('click', surprise);
+    $('reset').addEventListener('click', reset);
+    $('idea').addEventListener('input', updateCount);
+
+    loadGenres();
+</script>
+</body>
+</html>
