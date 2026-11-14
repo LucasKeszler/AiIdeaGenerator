@@ -1,6 +1,7 @@
 package com.example.demo.api;
 import com.example.demo.dto.ApiInfoDto;
 import com.example.demo.service.ApiSelectionService;
+import com.example.demo.service.PromptService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -14,8 +15,10 @@ import java.util.Set;
 public class TestController {
 
     private final ApiSelectionService apiSelectionService;
+    private final PromptService promptService;
 
-    public TestController(ApiSelectionService apiSelectionService) {
+    public TestController(ApiSelectionService apiSelectionService, PromptService promptService) {
+        this.promptService = promptService;
         this.apiSelectionService = apiSelectionService;
     }
 
@@ -28,6 +31,15 @@ public class TestController {
     @GetMapping("/apis")
     public List<ApiInfoDto> testApis(@RequestParam Set<String> apiSubGenre, @RequestParam(defaultValue = "false") boolean visNsfw) {
         return apiSelectionService.selectApi(apiSubGenre, visNsfw);
+    }
+
+    @GetMapping("/prompt")
+    public String testPrompt(@RequestParam Set<String> subgenre,
+                             @RequestParam(defaultValue = "false") boolean visNsfw,
+                             @RequestParam(required = false) String ide) {
+
+        List<ApiInfoDto> chosen = apiSelectionService.selectApi(subgenre, visNsfw);
+        return promptService.buildUserMessage(ide, chosen);
     }
 
 }
