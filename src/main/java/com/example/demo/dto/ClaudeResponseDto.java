@@ -18,5 +18,5 @@ public record ClaudeResponseDto(
     public record Usage (
             @JsonProperty("input_tokens") int inputTokens,
             @JsonProperty("output_tokens") int outputTokens
-    )
+    ) {}
 }
