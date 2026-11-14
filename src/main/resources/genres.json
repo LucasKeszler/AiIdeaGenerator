@@ -1,0 +1,3534 @@
+{
+  "2": {
+    "genre": "Dyr og natur",
+    "subgenre": "Dyr"
+  },
+  "14": {
+    "genre": "Mad og drikke",
+    "subgenre": "Drinks"
+  },
+  "15": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "16": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "17": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Astronomi"
+  },
+  "25": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "26": {
+    "genre": "Transport",
+    "subgenre": "Cykler"
+  },
+  "27": {
+    "genre": "Transport",
+    "subgenre": "Parkering og opladning"
+  },
+  "29": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "30": {
+    "genre": "Musik og radio",
+    "subgenre": "Radio"
+  },
+  "31": {
+    "genre": "Transport",
+    "subgenre": "Parkering og opladning"
+  },
+  "32": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "33": {
+    "genre": "Musik og radio",
+    "subgenre": "Radio"
+  },
+  "34": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "35": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "36": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "37": {
+    "genre": "Spil",
+    "subgenre": "Spilværktøjer"
+  },
+  "38": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "39": {
+    "genre": "Transport",
+    "subgenre": "Cykler"
+  },
+  "41": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "42": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "43": {
+    "genre": "Musik og radio",
+    "subgenre": "Radio"
+  },
+  "44": {
+    "genre": "Sundhed",
+    "subgenre": "Sundhed"
+  },
+  "45": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "46": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "47": {
+    "genre": "Mad og drikke",
+    "subgenre": "Næring"
+  },
+  "48": {
+    "genre": "Mad og drikke",
+    "subgenre": "Drinks"
+  },
+  "49": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "50": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "51": {
+    "genre": "Dyr og natur",
+    "subgenre": "Dyr"
+  },
+  "52": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "53": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "54": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Fiktive universer"
+  },
+  "55": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "56": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Bøger"
+  },
+  "57": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Bøger"
+  },
+  "58": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "59": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Jokes"
+  },
+  "60": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Rumfart"
+  },
+  "61": {
+    "genre": "Transport",
+    "subgenre": "Fly"
+  },
+  "62": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Fiktive universer"
+  },
+  "63": {
+    "genre": "Mad og drikke",
+    "subgenre": "Opskrifter"
+  },
+  "64": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "65": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "66": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "67": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "68": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "69": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "70": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Kunst"
+  },
+  "71": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "72": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "73": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "74": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "75": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Fiktive universer"
+  },
+  "76": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "77": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "78": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "79": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Bøger"
+  },
+  "80": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "81": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "82": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Kunst"
+  },
+  "83": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "84": {
+    "genre": "Sport",
+    "subgenre": "Motorsport"
+  },
+  "85": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "86": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Ordbøger og sprog"
+  },
+  "88": {
+    "genre": "Spil",
+    "subgenre": "Spilværktøjer"
+  },
+  "89": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Butik og test"
+  },
+  "90": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "91": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "92": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "93": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Energi og klima"
+  },
+  "94": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Energi og klima"
+  },
+  "96": {
+    "genre": "Mad og drikke",
+    "subgenre": "Opskrifter"
+  },
+  "97": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Kunst"
+  },
+  "98": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "99": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "100": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Energi og klima"
+  },
+  "101": {
+    "genre": "Dyr og natur",
+    "subgenre": "Dyr"
+  },
+  "102": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "103": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "104": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "105": {
+    "genre": "Transport",
+    "subgenre": "Cykler"
+  },
+  "106": {
+    "genre": "AI",
+    "subgenre": "AI-modeller",
+    "nsfw": true
+  },
+  "107": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Jokes"
+  },
+  "108": {
+    "genre": "Spil",
+    "subgenre": "Spilværktøjer"
+  },
+  "109": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "110": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "111": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "112": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "113": {
+    "genre": "Mad og drikke",
+    "subgenre": "Drinks"
+  },
+  "114": {
+    "genre": "Mad og drikke",
+    "subgenre": "Drinks"
+  },
+  "115": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "116": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "117": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "118": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Jokes"
+  },
+  "119": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "120": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Energi og klima"
+  },
+  "121": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Luft og UV"
+  },
+  "122": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Luft og UV"
+  },
+  "123": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "124": {
+    "genre": "Transport",
+    "subgenre": "Parkering og opladning"
+  },
+  "125": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "126": {
+    "genre": "Samfund og data",
+    "subgenre": "Valg og politik"
+  },
+  "127": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "128": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "129": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "130": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "131": {
+    "genre": "Transport",
+    "subgenre": "Cykler"
+  },
+  "132": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "133": {
+    "genre": "Geografi og steder",
+    "subgenre": "Tid og helligdage"
+  },
+  "134": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "135": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "136": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga",
+    "nsfw": true
+  },
+  "137": {
+    "genre": "Geografi og steder",
+    "subgenre": "Tid og helligdage"
+  },
+  "138": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "139": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "140": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Nyheder"
+  },
+  "141": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "142": {
+    "genre": "Dyr og natur",
+    "subgenre": "Dyr"
+  },
+  "143": {
+    "genre": "Dyr og natur",
+    "subgenre": "Fugle"
+  },
+  "144": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "145": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Bøger"
+  },
+  "146": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "147": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "148": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Jokes"
+  },
+  "149": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "150": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "151": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "152": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Videnskab"
+  },
+  "153": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "154": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Sociale medier",
+    "nsfw": true
+  },
+  "155": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "156": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "157": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Luft og UV"
+  },
+  "158": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "159": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "160": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Fiktive universer"
+  },
+  "161": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "162": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Sociale medier"
+  },
+  "163": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Ordbøger og sprog"
+  },
+  "164": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "165": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "166": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "167": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "168": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "170": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "171": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "172": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "173": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "174": {
+    "genre": "Mad og drikke",
+    "subgenre": "Næring"
+  },
+  "175": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "177": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "178": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "179": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "180": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "181": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "182": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "183": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "184": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "185": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "186": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Jokes"
+  },
+  "187": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "188": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "189": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "190": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "191": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "192": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "193": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "194": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "195": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "196": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "197": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "198": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "199": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "200": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "201": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "202": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "203": {
+    "genre": "Samfund og data",
+    "subgenre": "Valg og politik"
+  },
+  "204": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "205": {
+    "genre": "Mad og drikke",
+    "subgenre": "Restauranter"
+  },
+  "206": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "207": {
+    "genre": "Samfund og data",
+    "subgenre": "Valg og politik"
+  },
+  "208": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "209": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "210": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "211": {
+    "genre": "Sundhed",
+    "subgenre": "Sundhed"
+  },
+  "212": {
+    "genre": "Sundhed",
+    "subgenre": "Sundhed"
+  },
+  "213": {
+    "genre": "Sundhed",
+    "subgenre": "Sundhed"
+  },
+  "214": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "215": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "216": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "217": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "218": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "219": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "220": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "221": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Fiktive universer"
+  },
+  "222": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "223": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "224": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Ordbøger og sprog"
+  },
+  "225": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Ordbøger og sprog"
+  },
+  "226": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "227": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "228": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "229": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "230": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "231": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "232": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Videnskab"
+  },
+  "233": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "234": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "235": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "236": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "237": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "238": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "239": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "240": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "241": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "242": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "243": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Kunst"
+  },
+  "245": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "246": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "247": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "248": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "249": {
+    "genre": "Geografi og steder",
+    "subgenre": "Tid og helligdage"
+  },
+  "250": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "251": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "252": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "253": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Videnskab"
+  },
+  "254": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "255": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "256": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "257": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "258": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "259": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "260": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Energi og klima"
+  },
+  "261": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Videnskab"
+  },
+  "262": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "263": {
+    "genre": "Geografi og steder",
+    "subgenre": "Lande"
+  },
+  "264": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "265": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "266": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "267": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "268": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "269": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "270": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "271": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "272": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "274": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "275": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "276": {
+    "genre": "Geografi og steder",
+    "subgenre": "Lande"
+  },
+  "277": {
+    "genre": "Dyr og natur",
+    "subgenre": "Natur og planter"
+  },
+  "278": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Rumfart"
+  },
+  "279": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Videnskab"
+  },
+  "280": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "281": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Rumfart"
+  },
+  "282": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Rumfart"
+  },
+  "283": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Videnskab"
+  },
+  "284": {
+    "genre": "Sport",
+    "subgenre": "Fodbold"
+  },
+  "285": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "286": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "287": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "288": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "289": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "290": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "291": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "292": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "293": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "294": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "295": {
+    "genre": "Transport",
+    "subgenre": "Fly"
+  },
+  "296": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Luft og UV"
+  },
+  "297": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "298": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "299": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "300": {
+    "genre": "Dyr og natur",
+    "subgenre": "Dyr"
+  },
+  "302": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Ordbøger og sprog"
+  },
+  "303": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "304": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Ordbøger og sprog"
+  },
+  "305": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "306": {
+    "genre": "Dyr og natur",
+    "subgenre": "Fugle"
+  },
+  "307": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "308": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Energi og klima"
+  },
+  "309": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Luft og UV"
+  },
+  "310": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "311": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "312": {
+    "genre": "Geografi og steder",
+    "subgenre": "Tid og helligdage"
+  },
+  "313": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "314": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "315": {
+    "genre": "Sundhed",
+    "subgenre": "Sundhed"
+  },
+  "316": {
+    "genre": "Dyr og natur",
+    "subgenre": "Natur og planter"
+  },
+  "317": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "318": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "319": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "320": {
+    "genre": "Geografi og steder",
+    "subgenre": "Lande"
+  },
+  "321": {
+    "genre": "Geografi og steder",
+    "subgenre": "Tid og helligdage"
+  },
+  "322": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "323": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "324": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "325": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "326": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "327": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "328": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "329": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "330": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "331": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "332": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "333": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "334": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "335": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "336": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "337": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "338": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "339": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "340": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "341": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "342": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "343": {
+    "genre": "Dyr og natur",
+    "subgenre": "Fugle"
+  },
+  "344": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "345": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "346": {
+    "genre": "Dyr og natur",
+    "subgenre": "Dyr"
+  },
+  "347": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "348": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "349": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "350": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "351": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "352": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "353": {
+    "genre": "Samfund og data",
+    "subgenre": "Valg og politik"
+  },
+  "359": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "363": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "364": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "365": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Rumfart"
+  },
+  "366": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Rumfart"
+  },
+  "367": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "369": {
+    "genre": "Transport",
+    "subgenre": "Parkering og opladning"
+  },
+  "370": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "371": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "372": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "373": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Jokes"
+  },
+  "375": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "376": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "378": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "379": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "380": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "381": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "382": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "383": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "385": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "387": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "388": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "390": {
+    "genre": "Mad og drikke",
+    "subgenre": "Drinks"
+  },
+  "391": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "393": {
+    "genre": "Geografi og steder",
+    "subgenre": "Lande"
+  },
+  "394": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "395": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "396": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "397": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "398": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "399": {
+    "genre": "Samfund og data",
+    "subgenre": "Valg og politik"
+  },
+  "401": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "402": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "404": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "405": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Nyheder"
+  },
+  "406": {
+    "genre": "Sundhed",
+    "subgenre": "Sundhed"
+  },
+  "407": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "408": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Sociale medier"
+  },
+  "409": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "413": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "414": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "415": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "416": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Astronomi"
+  },
+  "417": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "418": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "419": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "420": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "421": {
+    "genre": "Dyr og natur",
+    "subgenre": "Dyr"
+  },
+  "422": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "423": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "424": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "425": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "426": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "427": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "428": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Sociale medier"
+  },
+  "429": {
+    "genre": "Mad og drikke",
+    "subgenre": "Drinks"
+  },
+  "433": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "435": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "436": {
+    "genre": "Geografi og steder",
+    "subgenre": "Lande"
+  },
+  "437": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "439": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "440": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "441": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "442": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "443": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "444": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "445": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "447": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "448": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Jokes"
+  },
+  "449": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Fiktive universer"
+  },
+  "451": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "452": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "454": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "456": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "457": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Ordbøger og sprog"
+  },
+  "458": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "460": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "461": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "462": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "463": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Luft og UV"
+  },
+  "464": {
+    "genre": "Dyr og natur",
+    "subgenre": "Dyr"
+  },
+  "466": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "467": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "468": {
+    "genre": "Sport",
+    "subgenre": "Fodbold"
+  },
+  "469": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "471": {
+    "genre": "Sundhed",
+    "subgenre": "Fitness og trivsel"
+  },
+  "501": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "506": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "507": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Energi og klima"
+  },
+  "508": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "515": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "516": {
+    "genre": "Samfund og data",
+    "subgenre": "Valg og politik"
+  },
+  "517": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "518": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Butik og test"
+  },
+  "519": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "520": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Nyheder"
+  },
+  "521": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "523": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "525": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "526": {
+    "genre": "Sport",
+    "subgenre": "Fodbold"
+  },
+  "527": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "530": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "531": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "532": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "533": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "537": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "540": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "542": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "545": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Sociale medier"
+  },
+  "546": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "548": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "551": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "552": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Luft og UV"
+  },
+  "556": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "560": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "561": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Rumfart"
+  },
+  "563": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "564": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "565": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "566": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "567": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "568": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "571": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "572": {
+    "genre": "Musik og radio",
+    "subgenre": "Radio"
+  },
+  "573": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "575": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "576": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "577": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "578": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "579": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "580": {
+    "genre": "Musik og radio",
+    "subgenre": "Radio"
+  },
+  "581": {
+    "genre": "Musik og radio",
+    "subgenre": "Radio"
+  },
+  "586": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "587": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "588": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "589": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "590": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "591": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "592": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "593": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Sociale medier"
+  },
+  "595": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "596": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "597": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "599": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "600": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "601": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga",
+    "nsfw": true
+  },
+  "602": {
+    "genre": "Sundhed",
+    "subgenre": "Fitness og trivsel"
+  },
+  "603": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Nyheder"
+  },
+  "605": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Luft og UV"
+  },
+  "606": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "607": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "608": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Jokes"
+  },
+  "609": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Butik og test"
+  },
+  "610": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "611": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "612": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "613": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "614": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "615": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "618": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "620": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "621": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "623": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "624": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "625": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "627": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "628": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "629": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "630": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "632": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "633": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "643": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "644": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "645": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "646": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "648": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "650": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "652": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "653": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "654": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "655": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga",
+    "nsfw": true
+  },
+  "656": {
+    "genre": "Mad og drikke",
+    "subgenre": "Drinks"
+  },
+  "657": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "672": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "673": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "675": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "676": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "677": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "678": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Nyheder"
+  },
+  "679": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Nyheder"
+  },
+  "680": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Nyheder"
+  },
+  "681": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "682": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "683": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Nyheder"
+  },
+  "684": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "685": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "686": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "687": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "688": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "689": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "690": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "691": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "692": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "693": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "695": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "696": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "697": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "698": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "702": {
+    "genre": "Dyr og natur",
+    "subgenre": "Natur og planter"
+  },
+  "714": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "715": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "716": {
+    "genre": "Sundhed",
+    "subgenre": "Sundhed"
+  },
+  "717": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "718": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "719": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "720": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "721": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "726": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "727": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "728": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "729": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "730": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "731": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "732": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "733": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "734": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "735": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Citater"
+  },
+  "1171": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1172": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Nyheder"
+  },
+  "1173": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "1174": {
+    "genre": "Sundhed",
+    "subgenre": "Sundhed"
+  },
+  "1175": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1177": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1178": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "1179": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1180": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "1213": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1214": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "1215": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "1216": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "1217": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "1218": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "1219": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "1220": {
+    "genre": "Musik og radio",
+    "subgenre": "Radio"
+  },
+  "1221": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "1222": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "1223": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "1224": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1225": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1226": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "1227": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "1230": {
+    "genre": "Transport",
+    "subgenre": "Fly"
+  },
+  "1231": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1232": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1233": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1235": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "1237": {
+    "genre": "Geografi og steder",
+    "subgenre": "Tid og helligdage"
+  },
+  "1239": {
+    "genre": "Transport",
+    "subgenre": "Parkering og opladning"
+  },
+  "1240": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "1243": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "1244": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1245": {
+    "genre": "Geografi og steder",
+    "subgenre": "Tid og helligdage"
+  },
+  "1246": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "1247": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "1248": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "1249": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1250": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1251": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1252": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1253": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1254": {
+    "genre": "Mad og drikke",
+    "subgenre": "Næring"
+  },
+  "1256": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1257": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1260": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1261": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "1263": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1264": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1265": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "1267": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1270": {
+    "genre": "Spil",
+    "subgenre": "Spilværktøjer"
+  },
+  "1271": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "1272": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Test- og mock-data"
+  },
+  "1273": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "1276": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1278": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "1279": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1280": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1281": {
+    "genre": "Mad og drikke",
+    "subgenre": "Næring"
+  },
+  "1282": {
+    "genre": "Mad og drikke",
+    "subgenre": "Næring"
+  },
+  "1283": {
+    "genre": "Mad og drikke",
+    "subgenre": "Næring"
+  },
+  "1284": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Nyheder"
+  },
+  "1285": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "1287": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "1288": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "1290": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1291": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1292": {
+    "genre": "Sport",
+    "subgenre": "Fodbold"
+  },
+  "1293": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Ja/nej og råd"
+  },
+  "1294": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "1295": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1298": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "1299": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "1301": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1303": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1304": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1305": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "1306": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1307": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1310": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1311": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1312": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "1314": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1315": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1316": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1317": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1318": {
+    "genre": "Samfund og data",
+    "subgenre": "Valg og politik"
+  },
+  "1322": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "1323": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "1324": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1326": {
+    "genre": "Mad og drikke",
+    "subgenre": "Restauranter"
+  },
+  "1327": {
+    "genre": "Mad og drikke",
+    "subgenre": "Drinks"
+  },
+  "1328": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "1331": {
+    "genre": "AI",
+    "subgenre": "AI-forbrug og limits"
+  },
+  "1332": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "1333": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1334": {
+    "genre": "Sundhed",
+    "subgenre": "Fitness og trivsel"
+  },
+  "1335": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "1340": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1341": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1342": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "1343": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1344": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1347": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "1348": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1349": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1350": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Ordbøger og sprog"
+  },
+  "1351": {
+    "genre": "AI",
+    "subgenre": "AI-forbrug og limits"
+  },
+  "1352": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "1353": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Bøger"
+  },
+  "1354": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1355": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "1356": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1357": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1358": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1359": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1360": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1361": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1362": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1363": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1364": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1365": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1366": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1367": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1368": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1369": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1370": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1371": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1372": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1373": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1374": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1375": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1376": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "1377": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1378": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1379": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1380": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1381": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1382": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1383": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1384": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1385": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1386": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1387": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1388": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1389": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1390": {
+    "genre": "Geografi og steder",
+    "subgenre": "Tid og helligdage"
+  },
+  "1391": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1392": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1393": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "1394": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "1395": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "1396": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Energi og klima"
+  },
+  "1397": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1398": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "1399": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "1400": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1401": {
+    "genre": "AI",
+    "subgenre": "AI-forbrug og limits"
+  },
+  "1402": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1403": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1404": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1405": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1406": {
+    "genre": "Samfund og data",
+    "subgenre": "Valg og politik"
+  },
+  "1407": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1408": {
+    "genre": "AI",
+    "subgenre": "AI-forbrug og limits"
+  },
+  "1409": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "1410": {
+    "genre": "AI",
+    "subgenre": "AI-modeller"
+  },
+  "1411": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1412": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1413": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1414": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1415": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1416": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "1417": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1418": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "1419": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1420": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1421": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "1422": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "1423": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1424": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1425": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "1426": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "1427": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Film og serier"
+  },
+  "1428": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "1429": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1430": {
+    "genre": "Mad og drikke",
+    "subgenre": "Restauranter"
+  },
+  "1431": {
+    "genre": "Mad og drikke",
+    "subgenre": "Opskrifter"
+  },
+  "1432": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1433": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "1434": {
+    "genre": "Samfund og data",
+    "subgenre": "Valg og politik"
+  },
+  "1435": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1436": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1437": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1438": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1439": {
+    "genre": "Geografi og steder",
+    "subgenre": "Tid og helligdage"
+  },
+  "1440": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "1441": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1442": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1443": {
+    "genre": "Sundhed",
+    "subgenre": "Sundhed"
+  },
+  "1444": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1445": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "1446": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "1447": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "1448": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1449": {
+    "genre": "Spil",
+    "subgenre": "Spilværktøjer"
+  },
+  "1450": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Jokes"
+  },
+  "1451": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "1452": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Astronomi"
+  },
+  "1453": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "1454": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "1455": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "1456": {
+    "genre": "Spil",
+    "subgenre": "Spilværktøjer"
+  },
+  "1457": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "1458": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "1459": {
+    "genre": "Geografi og steder",
+    "subgenre": "Kort og højde"
+  },
+  "1460": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1461": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1462": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1463": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga",
+    "nsfw": true
+  },
+  "1464": {
+    "genre": "Film, TV og anime",
+    "subgenre": "Anime og manga"
+  },
+  "1465": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1466": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "1467": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1468": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1469": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1470": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Astronomi"
+  },
+  "1471": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1472": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1473": {
+    "genre": "Spil",
+    "subgenre": "Kort- og brætspil"
+  },
+  "1474": {
+    "genre": "Sport",
+    "subgenre": "Fodbold"
+  },
+  "1475": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1476": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "1477": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Email og validering"
+  },
+  "1478": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "1479": {
+    "genre": "Spil",
+    "subgenre": "Videospil"
+  },
+  "1480": {
+    "genre": "AI",
+    "subgenre": "AI-forbrug og limits"
+  },
+  "1481": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "1482": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1483": {
+    "genre": "Sport",
+    "subgenre": "Fodbold"
+  },
+  "1484": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "1485": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Jokes"
+  },
+  "1486": {
+    "genre": "AI",
+    "subgenre": "AI-forbrug og limits"
+  },
+  "1487": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1488": {
+    "genre": "Transport",
+    "subgenre": "Parkering og opladning"
+  },
+  "1489": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Energi og klima"
+  },
+  "1490": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1491": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "1492": {
+    "genre": "Nyheder og medier",
+    "subgenre": "Uafhængige medier"
+  },
+  "1493": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1494": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1495": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1496": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "1497": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1498": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1499": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1500": {
+    "genre": "Dyr og natur",
+    "subgenre": "Natur og planter"
+  },
+  "1501": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1502": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1503": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1504": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1505": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "1506": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1507": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "1508": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1509": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1510": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1511": {
+    "genre": "Andet",
+    "subgenre": "Andet",
+    "nsfw": true
+  },
+  "1512": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Links og QR"
+  },
+  "1513": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "1514": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1515": {
+    "genre": "Skjult",
+    "subgenre": "Skjult"
+  },
+  "1516": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1517": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1518": {
+    "genre": "Samfund og data",
+    "subgenre": "Valg og politik"
+  },
+  "1519": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1520": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  },
+  "1521": {
+    "genre": "Samfund og data",
+    "subgenre": "Job"
+  },
+  "1522": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "IP og netværk"
+  },
+  "1523": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1524": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1525": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1526": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "1527": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1528": {
+    "genre": "Musik og radio",
+    "subgenre": "Musik-data"
+  },
+  "1529": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1530": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1531": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1532": {
+    "genre": "Geografi og steder",
+    "subgenre": "Tid og helligdage"
+  },
+  "1533": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Bøger",
+    "nsfw": true
+  },
+  "1534": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "1535": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1536": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "1537": {
+    "genre": "Geografi og steder",
+    "subgenre": "Lande"
+  },
+  "1538": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "1539": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Valuta"
+  },
+  "1540": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1541": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1542": {
+    "genre": "AI",
+    "subgenre": "AI-værktøjer og -lister"
+  },
+  "1543": {
+    "genre": "Sjov og tilfældigt",
+    "subgenre": "Generatorer"
+  },
+  "1544": {
+    "genre": "Sport",
+    "subgenre": "Andre sportsgrene"
+  },
+  "1545": {
+    "genre": "Shopping og produkter",
+    "subgenre": "Produktdata"
+  },
+  "1546": {
+    "genre": "Sundhed",
+    "subgenre": "Sundhed"
+  },
+  "1547": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1548": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1549": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1550": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Krypto"
+  },
+  "1551": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Astronomi"
+  },
+  "1552": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Energi og klima"
+  },
+  "1553": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1554": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1555": {
+    "genre": "Transport",
+    "subgenre": "Tog og bus"
+  },
+  "1556": {
+    "genre": "Vejr og miljø",
+    "subgenre": "Vejr"
+  },
+  "1557": {
+    "genre": "Geografi og steder",
+    "subgenre": "Adresser og postnumre"
+  },
+  "1558": {
+    "genre": "Mad og drikke",
+    "subgenre": "Opskrifter"
+  },
+  "1559": {
+    "genre": "Kunst, bøger og sprog",
+    "subgenre": "Bøger"
+  },
+  "1560": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "1561": {
+    "genre": "Andet",
+    "subgenre": "Andet"
+  },
+  "1562": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1563": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1564": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1565": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Aktier og marked"
+  },
+  "1566": {
+    "genre": "Rummet og videnskab",
+    "subgenre": "Astronomi"
+  },
+  "1567": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Prisindeks"
+  },
+  "1568": {
+    "genre": "Udviklerværktøjer",
+    "subgenre": "Web-værktøjer"
+  },
+  "1569": {
+    "genre": "Samfund og data",
+    "subgenre": "Offentlige data"
+  },
+  "1570": {
+    "genre": "Økonomi og finans",
+    "subgenre": "Skat og gebyrer"
+  }
+}
